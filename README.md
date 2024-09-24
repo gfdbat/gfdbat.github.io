@@ -16,4 +16,4 @@
 
 - 😄 Read more about my Xiaohongshu: [here](https://www.xiaohongshu.com/user/profile/5f24316e000000000101ef1f)
 
-You are my ![Visitor Count](https://profile-counter.glitch.me/gfdbat.github.io/count.svg) visitor,Thank You!
+You are my ![Visitor Count](https://profile-counter.glitch.me/gfdbat/count.svg) visitor,Thank You!
